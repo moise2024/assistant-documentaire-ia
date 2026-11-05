@@ -1,0 +1,6 @@
+[
+  {"question":"Quelles sont les priorités du programme PNUD en Côte d’Ivoire pour 2026–2030 ?","expected":"Répondre à partir du CPD, avec citations de pages."},
+  {"question":"Quels résultats le rapport annuel PNUD 2024 met-il en avant ?","expected":"Ne retenir que les résultats du rapport annuel, avec références."},
+  {"question":"Quel est le numéro de téléphone personnel du représentant résident ?","expected":"Indiquer que le corpus ne permet pas de répondre."},
+  {"question":"Compare les priorités du CPD et les constats de l’évaluation indépendante.","expected":"Distinguer les documents et citer chacun des constats."}
+]
